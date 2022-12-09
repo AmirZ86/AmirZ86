@@ -48,6 +48,15 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/283294
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="No group" tvg-id="CHN" tvg-name="CHN", Sukan RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
 
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="No group" tvg-id="CHN" tvg-name="CHN", TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="No group" tvg-id="CHN" tvg-name="CHN", tv3
+https://lift-gs.global.ssl.fastly.net/live-hls/tonton1_270p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="No group" tvg-id="CHN" tvg-name="CHN", TV3
+https://lift-gs.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="No group" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN 2 https://webudi.openhd.lol/lb/premium45/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="Online" tvg-logo="http://www.tvikim.my/images/logo-header-02.png",TVIKIM
